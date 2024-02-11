@@ -1,0 +1,14 @@
+api/log/*
+api/tmp/*
+api/storage/*
+api/config/master.key
+
+desktop-client/logs
+desktop-client/*.log
+desktop-client/npm-debug.log*
+desktop-client/yarn-debug.log*
+desktop-client/yarn-error.log*
+desktop-client/pnpm-debug.log*
+desktop-client/lerna-debug.log*
+
+desktop-client/node_modules
