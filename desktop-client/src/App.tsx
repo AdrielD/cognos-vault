@@ -1,7 +1,12 @@
 import Note from './components/Note';
 
 const App = () => {
-  return <Note />;
+  return (
+    <>
+      <Note />
+      <Note />
+    </>
+  );
 };
 
 export default App;
